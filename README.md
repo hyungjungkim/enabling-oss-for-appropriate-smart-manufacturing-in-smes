@@ -1,7 +1,28 @@
-# Open-Source Software (OSS) for developing Appropriate Smart Manufacturing Technology in SMEs
+# Open-Source Software (OSS) for Developing Appropriate Smart Manufacturing Technology in SMEs
 
-(to be updated...)
+Recently, digital transformation is getting more attention to integrate the entire product development process. To do this, Information and Communication Technologies (ICTs) are essential for multiple connections among each component. These connections can improve productivity and reduce environmental impacts such as energy and materials.
 
+On the other hand, using open-source software is very popular nowadays. Various software is available from online communities and large IT companies. They are helping to develop smart technologies with less technical and economic pressure.
+
+However, manufacturing SMEs still have difficulties adopting these emerging technologies. Significantly, technical and economic barriers limit their transition from traditional manufacturing to smart factories. But, to survive in the competitive market, they have to find a way to jump up using smart manufacturing technology. 
+
+In this page, I narrowed down enabling OSS for developing an appropriate IoT edge computing system in each of 8 common and must-have functional components. In addition, I added a programming language as an extra.
+
+| Functional component | Cosideration | Recommendation |
+| ----------- | ----------- | ----------- |
+| Device management | Popularity and stable | **Linux families** Raspberry Pi OS [[Link]()] |
+| Communication | Standard (for interoperability) | **Wi-Fi** |
+| Protocol | Standard (for interoperability) | **MQTT** [[Link](https://mqtt.org/)] <br> **OPC UA** [[Link](https://opcfoundation.org/about/opc-technologies/opc-ua/)]] |
+| Data management | On-premises (vs. cloud) | **MySQL** [[Link](https://www.mysql.com/)] |
+| Analytics | Event-driven (vs. big data) | [Image processing] <br> **OpenCV** [[Link](https://opencv.org/)] <br> [Complex Event Processing (CEP)] <br> **Node-RED** [[Link](https://nodered.org/)] |
+| Visualization | Interactive and lightweight | **Node-RED** [[Link](https://nodered.org/)] |
+| Scalability | Dozens of devices (vs. tens of hundred) | Any idea? |
+| Security | Private network (vs. public) | Any idea? |
+| Programming language | Popularity and simple-to-learn | **Python** Most popular one! [[Link](https://www.python.org/)] |
+
+References of this study are listed in below.
+
+---
 ## Journal paper
 Practical Guide to Smart Factory Transition Using IoT, Big Data and Edge Analytics (2018) [[Link]()]  
 
@@ -43,8 +64,9 @@ Appropriate Smart Factory Demonstration of Applicability to Industrial Safety (2
 
 Open Source IIoT Solution for Gas Waste Monitoring in Smart Factory (2022) [[Link]()]  
 
+---
 ## Public report
 
-
+---
 ## White paper
 (to be added...)
