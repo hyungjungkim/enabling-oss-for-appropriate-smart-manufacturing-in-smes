@@ -10,7 +10,7 @@ In this page, I narrowed down enabling OSS for developing an appropriate IoT edg
 
 | Functional component | Cosideration | Recommendation |
 | ----------- | ----------- | ----------- |
-| Device management | Popularity and stable | **Linux families** Raspberry Pi OS [[Link]()] |
+| Device management | Popularity and stable | **Linux families** Raspberry Pi OS [[Link](https://www.raspberrypi.com/software/)] |
 | Communication | Standard (for interoperability) | **Wi-Fi** |
 | Protocol | Standard (for interoperability) | **MQTT** [[Link](https://mqtt.org/)] <br> **OPC UA** [[Link](https://opcfoundation.org/about/opc-technologies/opc-ua/)]] |
 | Data management | On-premises (vs. cloud) | **MySQL** [[Link](https://www.mysql.com/)] |
