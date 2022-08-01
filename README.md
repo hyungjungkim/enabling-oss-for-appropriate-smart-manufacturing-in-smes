@@ -4,7 +4,7 @@ Recently, digital transformation is getting more attention to integrate the enti
 
 On the other hand, using open-source software is very popular nowadays. Various software is available from online communities and large IT companies. They are helping to develop smart technologies with less technical and economic pressure.
 
-However, manufacturing SMEs still have difficulties adopting these emerging technologies. Significantly, technical and economic barriers limit their transition from traditional manufacturing to smart factories. But, to survive in the competitive market, they have to find a way to jump up using smart manufacturing technology. 
+However, manufacturing Small and Medium-sized Enterprises (SMEs) still have difficulties adopting these emerging technologies. Significantly, technical and economic barriers limit their transition from traditional manufacturing to smart factories. But, to survive in the competitive market, they have to find a way to jump up using smart manufacturing technology. 
 
 In this page, I narrowed down enabling OSS for developing an appropriate IoT edge computing system in each of 8 common and must-have functional components. In addition, I added a programming language as an extra.
 
