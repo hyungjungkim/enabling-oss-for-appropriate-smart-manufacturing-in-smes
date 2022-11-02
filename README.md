@@ -14,7 +14,7 @@ In this page, I narrowed down enabling OSS for developing an appropriate IoT edg
 | Device management | Popularity and stable | **Linux families** Raspberry Pi OS [[Link](https://www.raspberrypi.com/software/)] |
 | Communication | Standard (for interoperability) | **Wi-Fi** |
 | Protocol | Standard (for interoperability) | **MQTT** [[Link](https://mqtt.org/)] <br/> **OPC UA** [[Link](https://opcfoundation.org/about/opc-technologies/opc-ua/)]] |
-| Data management | On-premises (vs. cloud) | **MySQL** [[Link](https://www.mysql.com/)], *MariaDB** [[Link](https://mariadb.org/)] |
+| Data management | On-premises (vs. cloud) | **MySQL** [[Link](https://www.mysql.com/)], **MariaDB** [[Link](https://mariadb.org/)] |
 | Analytics | Event-driven (vs. big data) | [Image processing] <br/> **OpenCV** [[Link](https://opencv.org/)] <br/> [Complex Event Processing (CEP)] <br/> **Node-RED** [[Link](https://nodered.org/)] |
 | Visualization | Interactive and lightweight | **Node-RED** [[Link](https://nodered.org/)] |
 | Scalability | Dozens of devices (vs. tens of hundred) | Any idea? |
