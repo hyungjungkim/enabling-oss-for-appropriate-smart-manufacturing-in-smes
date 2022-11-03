@@ -26,15 +26,9 @@ References of this study are listed in below.
 
 ---
 ## Journal paper
-- Practical Guide to Smart Factory Transition Using IoT, Big Data and Edge Analytics (2018) [[Link](https://doi.org/10.1109/ACCESS.2018.2872799)]  
+- Kim, H., Lee, H. and Ahn, S.H., 2022. Systematic deep transfer learning method based on a small image dataset for spaghetti-shape defect monitoring of fused deposition modeling. Journal of Manufacturing Systems, 65, pp.439-451. [[Link](https://doi.org/10.1016/j.jmsy.2022.10.009)]  
 
-- An Industry 4.0-Enabled Low Cost Predictive Maintenance Approach for SMEs (2018) [[Link](https://doi.org/10.1109/ICE.2018.8436307)]  
-
-- An open-source toolkit for retrofit industry 4.0 sensing and monitoring applications (2018) [[Link](https://doi.org/10.1109/I2MTC.2018.8409633)]  
-
-- Methodology for the Retrofitting of Manufacturing Resources for Migration of SME Towards Industry 4.0 (2018) [[Link](https://doi.org/10.1007/978-3-030-01535-0_25)]  
-
-- A Low-Cost Vision-Based Monitoring of Computer Numerical Control (CNC) Machine Tools for Small and Medium-Sized Enterprises (SMEs) (2019) [[Link](https://doi.org/10.3390/s19204506)]  
+- Waters, M., Waszczuk, P., Ayre, R., Dreze, A., McGlinchey, D., Alkali, B. and Morison, G., 2022. Open Source IIoT Solution for Gas Waste Monitoring in Smart Factory. Sensors, 22(8), p.2972. [[Link](https://doi.org/10.3390/s22082972)]  
 
 - A Novel Rule-based MPS model for SME Manufacturing Factory in Korea (2019) [[Link](https://doi.org/10.1016/j.procs.2019.08.103)]  
 
@@ -64,12 +58,20 @@ References of this study are listed in below.
 
 - Appropriate Smart Factory Demonstration of Applicability to Industrial Safety (2021) [[Link](https://doi.org/10.37675/jat.2021.7.2.196)]  
 
-- Open Source IIoT Solution for Gas Waste Monitoring in Smart Factory (2022) [[Link](https://doi.org/10.3390/s22082972)]  
+- Kim, H., Jung, W.K., Choi, I.G. and Ahn, S.H., 2019. A low-cost vision-based monitoring of computer numerical control (CNC) machine tools for small and medium-sized enterprises (SMEs). Sensors, 19(20), p.4506. [[Link](https://doi.org/10.3390/s19204506)]  
+
+- Contreras Pérez, J.D., Cano Buitrón, R.E. and García Melo, J.I., 2018, November. Methodology for the retrofitting of manufacturing resources for migration of SME towards industry 4.0. In International Conference on Applied Informatics (pp. 337-351). Springer, Cham. [[Link](https://doi.org/10.1007/978-3-030-01535-0_25)]  
+
+- Nsiah, K.A., Schappacher, M., Rathfelder, C., Sikora, A. and Groza, V., 2018, May. An open-source toolkit for retrofit industry 4.0 sensing and monitoring applications. In 2018 IEEE International Instrumentation and Measurement Technology Conference (I2MTC) (pp. 1-6). IEEE. [[Link](https://doi.org/10.1109/I2MTC.2018.8409633)]  
+
+- Sezer, E., Romero, D., Guedea, F., Macchi, M. and Emmanouilidis, C., 2018, June. An industry 4.0-enabled low cost predictive maintenance approach for smes. In 2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC) (pp. 1-8). IEEE. [[Link](https://doi.org/10.1109/ICE.2018.8436307)]  
+
+- Illa, P.K. and Padhi, N., 2018. Practical guide to smart factory transition using IoT, big data and edge analytics. Ieee Access, 6, pp.55162-55170. [[Link](https://doi.org/10.1109/ACCESS.2018.2872799)]  
 
 <br/>
 
 ## Public report
-- The Digital Transformation of SMEs (2021) [[Link](https://doi.org/10.1787/bdb9256a-en)]
+- OECD, 2021. The Digital Transformation of SMEs. [[Link](https://doi.org/10.1787/bdb9256a-en)]
 
 <br/>
 
