@@ -1,5 +1,6 @@
 # Open-Source Software (OSS) for developing appropriate smart manufacturing technologies in SMEs
 
+## Summary of this study
 Recently, digital transformation is getting more attention to integrate the entire product development process. To do this, Information and Communication Technologies (ICTs) are essential for multiple connections among each component. These connections can improve productivity and reduce environmental impacts such as energy and materials.
 
 On the other hand, using open-source software is very popular nowadays. Various software is available from online communities and large IT companies. They are helping to develop smart technologies with less technical and economic pressure.
@@ -21,11 +22,14 @@ In this page, I narrowed down enabling OSS for developing an appropriate IoT edg
 | Security | Private network (vs. public) | Any idea? |
 | Programming language | Popularity and simple-to-learn | **Python** Most popular one! [[Link](https://www.python.org/)] |
 
-<br/>
-References of this study are listed in below.
 
+## Related publication
+1. Kim, H., 2022. Open-source software for developing appropriate smart manufacturing technology in small and medium-sized enterprises (SMEs). Journal of Appropriate Technology, 8(3), pp.109-116. [[Link](https://doi.org/10.37675/jat.2022.00206)]
 ---
-## Journal paper
+## Reference
+References of this study are listed in below.  
+
+### Journal paper
 - Kim, H., Lee, H. and Ahn, S.H., 2022. Systematic deep transfer learning method based on a small image dataset for spaghetti-shape defect monitoring of fused deposition modeling. Journal of Manufacturing Systems, 65, pp.439-451. [[Link](https://doi.org/10.1016/j.jmsy.2022.10.009)]  
 
 - Waters, M., Waszczuk, P., Ayre, R., Dreze, A., McGlinchey, D., Alkali, B. and Morison, G., 2022. Open Source IIoT Solution for Gas Waste Monitoring in Smart Factory. Sensors, 22(8), p.2972. [[Link](https://doi.org/10.3390/s22082972)]  
@@ -70,10 +74,10 @@ References of this study are listed in below.
 
 <br/>
 
-## Public report
+### Public report
 - OECD, 2021. The Digital Transformation of SMEs. [[Link](https://doi.org/10.1787/bdb9256a-en)]
 
 <br/>
 
-## White paper
+### White paper
 (to be added...)
